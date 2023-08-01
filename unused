@@ -1,0 +1,80 @@
+  <section>
+        
+      <div class="prepcontainer">
+        <h3 class="prep">
+            Our Prep Programs
+        </h3>
+        <div class="prepflex">
+            <div class="mathflex">
+                <div class="mathdiv">
+                    <img class="mathpic" src="./images/mathimg-removebg-preview.png" alt="math icon">
+                </div>
+                <div class="mathtext">
+                    <h4 class="math">Math</h4>
+                    <p>
+                        We have designed an incredible Prep Program for students in years 1-12, 
+                        aimed at helping them master Math and thrive academically. 
+                        Our Math Mastery program focuses on crucial areas including mental and written calculations, 
+                        problem-solving, and rapid reasoning, equipping your child in Year 1-6 with the comprehensive 
+                        training they need to excel in and out of the classroom.
+                         For our older students in Years 7-12, our prep tackles challenging areas including algebra, geometry, 
+                         and trigonometry, even delving into advanced topics like calculus and statistics. 
+                         We ensure Math is less of a chore and more of an exciting exploration, 
+                        equipping every student with the confidence to conquer any math hurdle.
+
+                    </p>
+
+                </div>
+              
+            </div>
+            <div class="mathflex1">
+                <div class="mathdiv">
+                    <img class="mathpic" src="./images/mathimg-removebg-preview.png" alt="math icon">
+                </div>
+                <div class="mathtext">
+                    <h4 class="math">English</h4>
+                    <p>
+                        Our English Mastery Program is designed to ignite a passion for language and storytelling in students from Years 1-12. It's not just about spelling, punctuation, and grammar - we're helping students harness the power of words.
+
+                        For younger learners in Years 1-6, we focus on enhancing their vocabulary, improving reading comprehension, and sparking their imagination through creative writing. We strive to instill a love for reading, writing, and verbal expression, giving them the skills to express themselves confidently.
+                        
+                        As for students in Years 7-12, we dive into the complexities of literature analysis, advanced composition, critical reading, and persuasive writing. We aim to sharpen their skills to tackle any English task - be it a fiery debate, a persuasive essay, or a deep-dive analysis of classical literature. At HiPrep, we're creating articulate communicators and thoughtful readers. Join us,
+                         and let's inspire a lifelong love for the English language in your child.
+
+                    </p>
+
+                </div>
+              
+            </div>
+            <div class="mathflex2">
+                <div class="mathdiv">
+                    <img class="mathpic" src="./images/mathimg-removebg-preview.png" alt="math icon">
+                </div>
+                <div class="mathtext2">
+                    <h4 class="math">Science</h4>
+                    <p>
+                        Our Science Mastery Program for students in Years 1-12 focuses on transforming our learners into science whiz and feeding their curiosity about the world.
+    
+                        For our younger learners in Years 1-6, we focus on creating a strong foundation in basic scientific principles, with topics ranging from life processes, materials, and physical forces. Our program encourages curiosity, experimentation, and observation.
+    
+                        As our students advance to Year 10, we delve deeper into the science of biology, physics, and chemistry. We cover complex topics such as genetics, quantum mechanics, and chemical reactions, and even touch on specialized subjects like environmental science and astronomy.
+    
+                        We're about making science less of a school subject and more of a fascinating journey.
+    
+                    </p>
+    
+                </div>
+              
+            </div>
+            
+            
+
+
+        </div>
+       
+   
+
+      </div>
+        
+   
+    </section> 

@@ -1,0 +1,235 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+   
+}
+a{
+    text-decoration: none;
+}
+.navlink{
+    text-decoration: none;
+    color: #f0f2f4;
+  
+}
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    justify-content: space-between;
+    background-color:#0A193F;
+    height: 70px;
+    padding-top: 45px;
+}
+.navlinks{
+    display: flex;
+    width: 25rem;
+    align-items: center;
+    justify-content: space-evenly;
+    color: #f0f2f4;
+}
+.logo{
+    height: 250px;
+    max-height: 100%;
+    width: auto; 
+}
+.heropics1{
+    width: 700px;
+    height: auto;
+
+}
+.herosection{
+    background-color: #0A193F;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    font-family: 'nunito', sans-serif;
+    font-weight: 900;
+    font-size: 30px;
+     color: white;
+   padding: 50px 0px 50px 30px;
+     
+}
+.button{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'nunito', sans-serif;
+    font-weight: 200;
+    font-size: 17px;
+    margin-top: 40px;
+}
+.start{
+    margin-right: 50px;
+}
+.learnmorebutton{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(235, 168, 44);
+    padding: 16px;
+    border-radius: 100px;
+    font-family: 'nunito', sans-serif;
+    font-weight: 400;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.welcome{
+    font-family: 'nunito', sans-serif;
+    font-weight: 200;
+    font-size: 17px;
+}
+.custom{
+    color: #119CD8;
+}
+.missionpic{
+    width: 70px;
+    height: auto;
+}
+.vl{
+    border-left: 3px solid black;
+  height: 400px;
+  margin-left: 30px;
+  margin-right: 30px;
+
+}
+.prepflex{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    background-color: #FFFFFF;
+    padding: 50px 40px 70px 40px;
+    margin-top: 50px;
+   
+    
+
+}
+.mission{
+    width: 500px;
+    margin-left: 50px;
+    padding-right: 15px;
+}
+.vision{
+    width: 500px;
+    margin-left: 10px;
+
+}
+.visiontext{
+    margin-top: 20px;
+    font-family: 'nunito', sans-serif;
+    font-size: 17px;
+    font-weight: 200;
+    line-height:25px;
+
+}
+.welcome1{
+    width: 300px;
+    font-family: 'nunito', sans-serif;
+    font-size: 30px;
+    align-self: center;
+}
+.custom1{
+    color: #00ad1b;
+}
+.preptext{
+    font-weight: 500;
+    font-size: 35px;
+}
+.choose{
+    font-weight: 200;
+    font-size: 25px;
+}
+
+.subjectimage{
+    width: 700px;
+    height: auto;
+    margin-left: 70px;
+    margin-top: 75px;
+    padding: 10px;
+    
+  
+}
+.mainflex{
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-between;
+    background-color: rgba(214, 248, 248, 0.811);
+    padding: 30px 10px 50px 5px;
+    margin-bottom: 200px;
+    
+
+}
+.subjectflex{
+    width: 500px;
+    margin-right: 70px;
+    font-family: 'nunito', sans-serif;
+    font-size: 17px;
+    font-weight: 200;
+    line-height:22px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    color: #0A193F;
+    margin-top: 50px;
+}
+.math{
+    margin-bottom: 30px;
+
+}
+#more {display: none;}
+#more1 {display: none;}
+#more2 {display: none;}
+#myBtn1{
+    cursor: pointer;
+    background-color: #0eb5a5;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+}
+#myBtn{
+    cursor: pointer;
+    background-color: #0eb5a5;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+}
+#myBtn2{
+    cursor: pointer;
+    background-color: #0eb5a5;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+}
+.subjecttext{
+    font-size: 35px;
+    font-family: 'nunito', sans-serif;
+    font-weight: 600;
+    text-align: center;
+    width: 600px;
+    color: #0A193F;
+    margin-top: 65px;
+    margin-left: 85px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
